@@ -1,7 +1,7 @@
 Single Currency Admin Tools addon
 ======================
 
-This addon is designed for NoxSicarius' Admin Tools v1.9.
+This addon is designed for NoxSicarius' Admin Tools v1.9.1
 
 What does this addon let you do?
 * View player's wallet & bank balance
